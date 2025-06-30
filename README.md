@@ -1,4 +1,4 @@
-# CTF Challenges by `$udo`
+# CTF Challenges by $udo
 
 ### Reverse Engineering
 - **Piped Up** – 300 Points  
