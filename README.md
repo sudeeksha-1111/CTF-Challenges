@@ -1,6 +1,6 @@
 # CTF Challenges by `$udo`
 
-### 🔄 Reverse Engineering
+### Reverse Engineering
 - **Piped Up** – 300 Points  
 - **Trust Issues** – 200 Points
 
