@@ -1,7 +1,7 @@
 ## **Challenge Name: Cryptic Pixels**
 
 ### **Solves**
-- **Solves**: - 206
+- **Solves**: - 206/659
 - **Points**: 200 
 
 ### **Description**

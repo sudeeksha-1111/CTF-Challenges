@@ -1,7 +1,7 @@
 ## **Challenge Name: Trust Issues**
 
 ### **Solves**
-- **Solves**: 145
+- **Solves**: 145/659
 - **Points**: 200
 
 ### **Description**

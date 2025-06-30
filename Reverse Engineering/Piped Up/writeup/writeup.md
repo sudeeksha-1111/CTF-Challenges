@@ -1,7 +1,7 @@
 ## **Challenge Name: Piped Up**
 
 ### **Solves**
-- **Solves**: - 46
+- **Solves**: - 46/659
 - **Points**: 300
 
 ### **Description**
