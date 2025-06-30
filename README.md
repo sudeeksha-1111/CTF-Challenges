@@ -1,6 +1,4 @@
-# 🔐 CTF Challenges by `$udo`
-
-## 🎯 Challenge Index
+# CTF Challenges by `$udo`
 
 ### 🔄 Reverse Engineering
 - **Piped Up** – 300 Points  
@@ -8,11 +6,11 @@
 
 ---
 
-### 🖼️ Steganography
+### Steganography
 - **Cryptic Pixels** – 200 Points
 
 ---
 
-### 🌐 Web Exploitation
+### Web Exploitation
 - **Buried Deep** – 100 Points  
 - **Token of Trust** – 200 Points
